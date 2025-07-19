@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/Vivado/amba_apb/amba_apb.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/Vivado/amba_apb/amba_apb.srcs/sim_1/new/tb_top.v,1752724504,verilog,,,,tb_top,,,,,,,,
+D:/Vivado/amba_apb/amba_apb.srcs/sources_1/new/slave.v,1752384757,verilog,,D:/Vivado/amba_apb/amba_apb.srcs/sources_1/new/top.v,,slave,,,,,,,,
+D:/Vivado/amba_apb/amba_apb.srcs/sources_1/new/top.v,1752296576,verilog,,D:/Vivado/amba_apb/amba_apb.srcs/sim_1/new/tb_top.v,,top,,,,,,,,
